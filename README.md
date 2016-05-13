@@ -1,4 +1,4 @@
-# Practice Of Python Codebook
+# Practice Of Python and C/C++
 
 my own practice code and reading notes of Python Code Book, continue reminds me and still contributing......
 
